@@ -1,7 +1,8 @@
 <pre>
 <?php
 
-print "Hello this is php";
+print "Welcome to the website";
+
 print `ifconfig`;
 
 ?>
